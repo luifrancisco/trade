@@ -9,13 +9,13 @@ This page serves as a technical summary of all posts published so far in this bl
 - **Total closed trades:** 7
 - **Overall win rate:** 57.1%
 - **Average return:** 5.20%
-- **Average days held:** 31.1 days
+- **Average duration:** 31.1 days
 
 ### By Market
 
-- **PH:** 2 trade(s), 50.0% win rate, 8.06% avg return
-- **JP:** 3 trade(s), 66.7% win rate, 4.41% avg return
-- **US:** 2 trade(s), 50.0% win rate, 3.54% avg return
+- **PH:** 2 trade(s), 50.0% win rate, 8.06% avg return, 47.0 days avg duration
+- **JP:** 3 trade(s), 66.7% win rate, 4.41% avg return, 34.7 days avg duration
+- **US:** 2 trade(s), 50.0% win rate, 3.54% avg return, 10.0 days avg duration
 
 ## Closed Trades
 
@@ -106,7 +106,7 @@ This page serves as a technical summary of all posts published so far in this bl
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">7</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">JP</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">8316</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">6723</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">2025-12-09</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">2148.00</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">2026-01-14</a></td>
