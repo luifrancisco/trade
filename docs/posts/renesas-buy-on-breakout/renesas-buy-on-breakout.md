@@ -12,7 +12,7 @@ metadata:
   stock_consolidation:
     market: JP
     tranches: false
-    symbol: "8316"
+    symbol: "6723"
     entry_date: "2025-12-09"
     entry_price: 2148
     entry_shares: 300

@@ -32,6 +32,6 @@ As for the exit, a pullback seemed more common than a follow through of the brea
 
 Also in hindisght, the index formed the same pattern.
 
-![ICT trade plan](photos/smfg_sell_20260520.jpg)
+![ICT trade plan](photos/tse_index_20260520.jpg)
 
 {==Don't forget to check the index once in a while==}
