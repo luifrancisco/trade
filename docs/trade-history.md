@@ -6,16 +6,16 @@ This page serves as a technical summary of all posts published so far in this bl
 
 ## Summary
 
-- **Total closed trades:** 7
-- **Overall win rate:** 57.1%
-- **Average return:** 5.20%
+- **Total closed trades:** 8
+- **Overall win rate:** 62.5%
+- **Average return:** 10.56%
 - **Average duration:** 31.1 days
 
 ### By Market
 
 - **PH:** 2 trade(s), 50.0% win rate, 8.06% avg return, 47.0 days avg duration
 - **JP:** 3 trade(s), 66.7% win rate, 4.41% avg return, 34.7 days avg duration
-- **US:** 2 trade(s), 50.0% win rate, 3.54% avg return, 10.0 days avg duration
+- **US:** 3 trade(s), 66.7% win rate, 18.39% avg return, 17.0 days avg duration
 
 ## Closed Trades
 
@@ -111,7 +111,19 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">-6.14%</a></td>
 </tr>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">7</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">7</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">US</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">ARM</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">2026-01-14</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">211.45</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">2026-02-14</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">31</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">313.14</a></td>
+  <td class="tranches-col"><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">1</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/28/arm-swinging-from-the-bottom-to-a-breakout/" style="color: #59A14F;">+48.09%</a></td>
+</tr>
+<tr>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">8</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">JP</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">6723</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">2025-12-09</a></td>
