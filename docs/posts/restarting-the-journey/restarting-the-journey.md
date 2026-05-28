@@ -5,7 +5,7 @@ authors:
   - luis
 categories:
   - Sentiments
-  - Loss
+  - Losses
 ---
 There are a handful of things I could do at home during this golden week, but among all of them, I am choosing have this trading journal setup for good.
 
