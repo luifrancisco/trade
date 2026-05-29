@@ -11,7 +11,7 @@ metadata:
   stock_consolidation:
     market: US
     tranches: false
-    symbol: "8316"
+    symbol: "QCOM"
     entry_date: "2026-05-21"
     entry_price: 207.27
     entry_shares: 8.18
