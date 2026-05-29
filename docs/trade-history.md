@@ -8,14 +8,14 @@ This page serves as a technical summary of all posts published so far in this bl
 
 - **Total closed trades:** 9
 - **Overall win rate:** 66.7%
-- **Average return:** 126.88%
+- **Average return:** 11.08%
 - **Average duration:** 26.6 days
 
 ### By Market
 
 - **PH:** 2 trade(s), 50.0% win rate, 8.06% avg return, 47.0 days avg duration
 - **JP:** 3 trade(s), 66.7% win rate, 4.41% avg return, 34.7 days avg duration
-- **US:** 4 trade(s), 75.0% win rate, 278.15% avg return, 10.2 days avg duration
+- **US:** 4 trade(s), 75.0% win rate, 17.60% avg return, 10.2 days avg duration
 
 ## Closed Trades
 
@@ -53,14 +53,14 @@ This page serves as a technical summary of all posts published so far in this bl
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">2</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">US</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">8316</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">QCOM</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">2026-05-21</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">207.27</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">2026-05-27</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">6</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">2399.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">238.87</a></td>
   <td class="tranches-col"><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">1</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">+1057.43%</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/29/qcom-a-quick-trade-for-a-reasonable-gain/" style="color: #59A14F;">+15.25%</a></td>
 </tr>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/20/smfg-8316-a-cup-and-handle-story/" style="color: #59A14F;">3</a></td>
