@@ -16,7 +16,7 @@ metadata:
     entry_price: 207.27
     entry_shares: 8.18
     exit_date: "2026-05-27"
-    exit_price: 2399
+    exit_price: 238.87
     exit_shares: 8.18
     notes: "Swing"
 ---
