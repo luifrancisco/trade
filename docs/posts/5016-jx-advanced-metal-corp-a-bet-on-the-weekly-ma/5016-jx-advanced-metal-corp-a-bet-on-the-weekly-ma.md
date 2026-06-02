@@ -20,9 +20,11 @@ metadata:
     exit_shares: 100
     notes: "Swing bet on weekly MA"
 ---
-![5016 trade plan](photos/5016_sell_20260602.jpg)
+![5016 trade plan](photos/5016_sell_20260602_v2.jpg)
 
 Last May 20 I noticed a big pull back with a potential weekly MA20 support. I bet on candle-0 of that MA support line hoping for a good price action the following week.
+
+![5016 trade plan](photos/5016_sell_weekly_20260602.jpg)
 
 Monday came and the reality looked to be going the opposite way.
 
