@@ -1,5 +1,5 @@
 ---
-title: "3436: Swing to a breakout"
+title: "3436 (SUMCO): Swing to a breakout"
 draft: false
 date: 2026-06-03
 authors:
