@@ -20,8 +20,6 @@ metadata:
     exit_shares: 100
     notes: "Swing"
 ---
-Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
-
 ![ICT trade plan](photos/ICT_trade_col_20260507.jpg)
 *Snap of the port just before the sell execution. Actual exit value was at 785.*
 
@@ -36,3 +34,5 @@ Fortunately, I'm on holiday today so I was able to monitor at EOD where I found 
 How do you calculate the RRR when the stock is ATH levels?
 
 Stock is still going strong. When do you re-enter?
+
+{==Don't forget to check the index once in a while. THIS IS A SAMPLE HIGHLIGHT==}
